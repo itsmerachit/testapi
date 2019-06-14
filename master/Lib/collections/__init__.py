@@ -613,7 +613,7 @@ class Counter(dict):
         if iterable is not None:
             if isinstance(iterable, Mapping):
                 if self:
-                    self_get = self.get
+                    self_get = get
                     for elem, count in iterable.items():
                         self[elem] = count + self_get(elem, 0)
                 else:
@@ -647,7 +647,7 @@ class Counter(dict):
             raise TypeError('expected at most 1 arguments, got %d' % len(args))
         iterable = args[0] if args else None
         if iterable is not None:
-            self_get = self.get
+            self_get = get
             if isinstance(iterable, Mapping):
                 for elem, count in iterable.items():
                     self[elem] = self_get(elem, 0) - count

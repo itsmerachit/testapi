@@ -15,7 +15,7 @@ class UserProfileManager(BaseUserManager):
         email = self.normalize_email(email)
         user = self.model(email=email, name= name)
         user.set_password(password)
-        user.save(using=self.__db)
+        user.save()
 
         return user
 
@@ -24,22 +24,21 @@ class UserProfileManager(BaseUserManager):
         user=self.create_user(email, name, password)
         user.is_superuser = True
         user.is_staff = True
-        user.save(using=self.__db)
+        user.save()
 
 
 class UserProfile(AbstractBaseUser, PermissionsMixin):
 
     email = models.EmailField(max_length=255, unique=True)
     name = models.CharField(max_length=255)
-    age = models.IntegerField()
+    # age = models.IntegerField()
     is_staff = models.BooleanField(default= False)
     is_active = models.BooleanField(default=True)
 
     object = UserProfileManager()
 
-
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = ['name', 'age']
+    REQUIRED_FIELDS = ['name']
 
     def get_full_name(self):
         return self.name

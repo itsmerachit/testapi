@@ -15,7 +15,7 @@ except NameError:
 
 # prepend bin to PATH (this file is inside the bin directory)
 bin_dir = os.path.dirname(os.path.abspath(__file__))
-os.environ["PATH"] = os.pathsep.join([bin_dir] + os.environ.get("PATH", "").split(os.pathsep))
+os.environ["PATH"] = os.pathsep.join([bin_dir] + get("PATH", "").split(os.pathsep))
 
 base = os.path.dirname(bin_dir)
 
