@@ -2,110 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f6d803f-00b2-48d3-9e80-788c634b249a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/testapi/test_api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testapi/test_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/collections/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/collections/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/locale.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/locale.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/shutil.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/shutil.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/conf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/conf/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/sites.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/sites.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/templatetags/admin_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/templatetags/admin_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/admin/widgets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/auth/management/commands/changepassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/auth/management/commands/changepassword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/contenttypes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/contenttypes/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/contenttypes/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/contenttypes/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/gis/db/models/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/gis/db/models/fields.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/gis/utils/layermapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/gis/utils/layermapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/gis/utils/srs.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/gis/utils/srs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/messages/storage/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/messages/storage/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/postgres/forms/array.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/postgres/forms/array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/sessions/backends/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/sessions/backends/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/sites/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/sites/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/staticfiles/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/contrib/staticfiles/storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/core/cache/backends/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/core/cache/backends/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/core/checks/templates.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/core/checks/templates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/color.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/commands/compilemessages.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/commands/compilemessages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/commands/shell.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/commands/shell.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/core/management/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/db/backends/mysql/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/db/backends/mysql/client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/db/models/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/db/models/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/db/models/fields/related_descriptors.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/db/models/fields/related_descriptors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/db/models/sql/compiler.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/db/models/sql/compiler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/forms/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/forms/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/shortcuts.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/shortcuts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/template/backends/django.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/template/backends/django.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/template/loader_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/template/loader_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/test/selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/test/selenium.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/test/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/test/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/autoreload.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/autoreload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/datastructures.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/datastructures.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/dateparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/dateparse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/utils/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/views/decorators/clickjacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/views/decorators/clickjacking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/django/views/generic/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/django/views/generic/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/build_env.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/cli/parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/commands/show.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/configuration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/download.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/pyproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/pyproject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/req/req_tracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/utils/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_internal/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/metadata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distro.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/distro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/msgpack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/pep517/envbuild.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/pep517/envbuild.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/pep517/wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/pep517/wrappers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/requests/sessions.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/urllib3/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/urllib3/contrib/_appengine_environ.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pkg_resources/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pkg_resources/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pkg_resources/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/pytz/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/pytz/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/authentication.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/pagination.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/pagination.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/relations.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/relations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/schemas/generators.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/schemas/generators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/viewsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/rest_framework/viewsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/_vendor/six.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/bdist_egg.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/easy_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/sdist.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/sdist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/command/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/dist.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/dist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/package_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/site-patch.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/site-patch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/setuptools/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/wheel/bdist_wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/wheel/bdist_wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site-packages/wheel/wheelfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site-packages/wheel/wheelfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Lib/site.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Lib/site.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/master/Scripts/activate_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/master/Scripts/activate_this.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testapi/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/testapi/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testapi/test_api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/testapi/test_api/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testapi/test_api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/testapi/test_api/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testapi/test_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/testapi/test_api/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/testapi/test_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/testapi/test_api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/testapi/testapi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/testapi/testapi/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -128,10 +27,22 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/testapi/test_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+            <state relative-caret-position="374">
+              <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testapi/test_api/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -154,15 +65,17 @@
       <list>
         <option value="$PROJECT_DIR$/src/testapi/testapi/settings.py" />
         <option value="$PROJECT_DIR$/src/testapi/test_api/admin.py" />
-        <option value="$PROJECT_DIR$/src/testapi/test_api/urls.py" />
         <option value="$PROJECT_DIR$/src/testapi/testapi/urls.py" />
         <option value="$PROJECT_DIR$/src/testapi/test_api/models.py" />
         <option value="$PROJECT_DIR$/src/testapi/test_api/serializers.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+        <option value="$PROJECT_DIR$/src/testapi/test_api/urls.py" />
         <option value="$PROJECT_DIR$/src/testapi/test_api/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="185" />
     <option name="y" value="201" />
     <option name="width" value="1366" />
@@ -216,6 +129,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -229,6 +143,54 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.scratch_2">
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="server1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="scratch_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="server1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.scratch_1" />
+      <item itemvalue="Python.scratch_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.scratch_2" />
+        <item itemvalue="Python.scratch_1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -261,7 +223,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32843137" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32843137" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -356,16 +318,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testapi/test_api/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/testapi/test_api/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -383,10 +335,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/master/Lib/site-packages/rest_framework/routers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="89" column="8" selection-start-line="89" selection-start-column="8" selection-end-line="89" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testapi/test_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/testapi/test_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        <state relative-caret-position="374">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
