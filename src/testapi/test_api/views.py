@@ -5,6 +5,9 @@ from rest_framework.response import Response
 from rest_framework import viewsets
 from . import serializers
 from rest_framework import status
+from . import models, permissions
+from rest_framework import filters
+from rest_framework.authentication import TokenAuthentication
 
 # Create your views here.
 
@@ -79,3 +82,12 @@ class HelloViewsets(viewsets.ViewSet):
 
     def delete(self, request):
         return Response({'Method':'Delete'})
+
+
+class UserProfileViewset(viewsets.ModelViewSet):
+    serializer_class = serializers.UserProfileSerializer
+    queryset = models.UserProfile.object.all()
+    authentication_classes = (TokenAuthentication,)
+    permission_classes = (permissions.UpdateOwnProfile,)
+    filter_backends = (filters.SearchFilter,)
+    search_fields = ('name', 'email',)
